@@ -1,0 +1,6 @@
+Which of the following match the expression 'p*.?xt' ?
+
+A) people.txt
+B) p.txt
+C) poodle.xt
+D) apple.ext

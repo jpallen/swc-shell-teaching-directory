@@ -1,0 +1,6 @@
+Write a shell script that outputs the smallest N numbers in a file.
+
+For example, the following should output the smallest N numbers in
+NENE01729A.txt:
+
+$ bash smallest.sh NENE01729A.txt -10

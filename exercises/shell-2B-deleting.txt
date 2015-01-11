@@ -1,0 +1,4 @@
+Inside 'swc' directory, create a new directory called 'thesis' with a file
+called 'draft.txt' inside it. E.g. /Users/james/swc/thesis/draft.txt
+
+Now delete the draft.txt file and the thesis directory.

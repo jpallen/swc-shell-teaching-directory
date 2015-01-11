@@ -1,0 +1,4 @@
+Create a new directory in your home directory called `swc` and create a new
+text file in it with some content.
+
+E.g. You should end up with a file at /Users/james/swc/hello.txt 

@@ -1,0 +1,10 @@
+With a copy of NENE01729A.txt, write a command to:
+
+A) Display only the smallest number in the file.
+
+B) Display the 10th to 20th largest values.
+
+C) Find out if any values are repeated.
+
+Hint: You should use the 'sort' and 'head' commands, and also maybe 'tail' and
+'uniq'.

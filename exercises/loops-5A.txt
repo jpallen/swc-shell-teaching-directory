@@ -1,0 +1,15 @@
+Write a shell script which will summarise the contents of a directory.
+For each text file (ending in .txt) it should print on the number of lines,
+and the first line. For example:
+
+$ bash summarize.sh .
+hello.txt
+12
+Hello world
+
+dickens.txt
+4029
+It was the best of times, it was the worst of times.
+
+
+
