@@ -1,0 +1,30 @@
+Which of the following shell scripts is a correct loop to show the
+lowest 10 numbers in every .dat file in the current directory?
+
+A)
+for filename in '*.dat'
+do
+	echo filename
+	sort -n filename | head -10
+done
+
+B)
+for filename in *.dat do
+	echo $filename
+	sort -n $filename | head -10
+done
+
+C)
+for filename in *.dat
+do
+	echo $filename
+	sort -n $filename | head -10
+done
+
+D)
+for filename in *.dat
+do
+	echo filename
+	sort -n filename | head -10
+done
+
