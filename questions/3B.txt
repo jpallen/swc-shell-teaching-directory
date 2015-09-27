@@ -1,0 +1,12 @@
+Question
+--------
+
+Which command will write the first 3 of 'results.txt' to 'summary.txt'?
+
+Answers
+-------
+
+A) cat results.txt > head -3 > summary.txt
+B) cat results.txt > head -3 | summary.txt
+C) cat results.txt | head -3 > summary.txt
+D) cat results.txt | head -3 | summary.txt
