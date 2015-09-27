@@ -1,0 +1,27 @@
+Question
+--------
+
+If pwd displays:
+
+$ pwd
+/Users/james/thesis
+
+and our files are organised like below, what will 'ls -F backups' display?
+
+Directories
+-----------
+
+/Users/james/
+	backups/
+		original.txt
+		final.txt
+	thesis/
+		current.txt
+
+Answers
+-------
+
+A) backups: No such file or directory
+B) backups/ thesis/
+C) final.txt original.txt
+D) current.txt

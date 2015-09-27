@@ -1,3 +1,6 @@
+Question
+--------
+
 What is the output of the final ls command in the sequence of commands below?
 
 $ pwd
@@ -9,9 +12,10 @@ $ mv proteins.dat recombine
 $ cp recombine/proteins.dat ../proteins-backup.dat
 $ ls -F
 
-Answers:
+Answers
+-------
 
 A) proteins.dat
 B) proteins.dat proteins-backup.dat recombine/
 C) proteins-backup.dat recombine/
-D) (nothing)
+D) recombine/

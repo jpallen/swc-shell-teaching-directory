@@ -1,0 +1,28 @@
+Question
+--------
+
+If the output of pwd is:
+
+$ pwd
+/Users/james/thesis
+
+which command(s) will show the contents of the backups directory?
+
+Directories
+-----------
+
+/Users/james/
+	backups/
+		original.txt
+		final.txt
+	thesis/
+		current.txt
+
+Answers
+-------
+
+A) 'cd backups' then 'ls'
+B) ls ../backups
+C) 'cd ../backups' then 'ls -F'
+D) ls -F ./backups
+
