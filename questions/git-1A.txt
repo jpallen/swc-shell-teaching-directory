@@ -1,0 +1,15 @@
+I have a git repository with two files, venus.txt and earth.txt.
+They are up to date in the staging area and commited.
+I edit venus.txt and earth.txt and make changes to them both.
+Then I run:
+
+$ git add venus.txt
+$ git commit -m "Planetary updates"
+$ git add earth.txt
+
+Which of the following are true?
+
+A) venus.txt is committed to the repository
+B) earth.txt is committed to the repository
+C) venus.txt is in the staging area
+D) earth.txt is in the staging area
